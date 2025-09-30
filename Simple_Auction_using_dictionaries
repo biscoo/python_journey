@@ -1,0 +1,31 @@
+# Simple Auction Bidding Program
+
+# Ask the first user for input
+name = input("Please enter your name: ")
+price = input("Please enter your bid: $")
+
+# Save data into dictionary {name: price}
+list_of_bids = {name: price}
+print(list_of_bids)
+
+# Start loop to check if new bids need to be added
+answer = "yes"
+
+while answer == "yes":
+    # Clear the screen by printing blank lines
+    print("\n" * 20)
+
+    # Ask for more bids
+    answer = input("Is there any other bid? [yes or no] ").lower()
+
+    if answer == "yes":
+        name = input("Please enter your name: ")
+        price = input("Please enter your bid: $")
+        list_of_bids[name] = price
+    else:
+        break
+
+# Compare bids in dictionary and find the winner
+for key, value in list_of_bids.items():
+    if value == max(list_of_bids.values()):
+        print(f"The winner is {key} with ${value}")
