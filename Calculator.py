@@ -1,20 +1,23 @@
 # Simple Calculator Program
 
-# Define operations
 def add(n1, n2):
+    """Return the sum of two numbers."""
     return n1 + n2
 
 def sub(n1, n2):
+    """Return the difference of two numbers (n1 - n2)."""
     return n1 - n2
 
 def mul(n1, n2):
+    """Return the product of two numbers."""
     return n1 * n2
 
 def div(n1, n2):
+    """Return the quotient of two numbers (n1 / n2)."""
     return n1 / n2
 
 
-# Dictionary mapping operators to functions
+# Dictionary mapping operator symbols to corresponding functions
 operators = {
     "+": add,
     "-": sub,
