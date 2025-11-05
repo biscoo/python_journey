@@ -45,4 +45,4 @@ This repository documents my progress through the **100 Days of Code Bootcamp**,
 
 ---
 
-⭐ **Follow my journey** and feel f
+⭐ **Follow my journey** and feel free to share feedback or collaborate!
