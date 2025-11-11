@@ -5,7 +5,7 @@ I'm transitioning from a **SATCOM engineering** background into **software devel
 
 This repository documents my journey through the **100 Days of Code Bootcamp**, where I’m learning Python fundamentals, automation, and software design — one day at a time.
 
-I’m currently on **Day 15 / 100**, steadily building skills through daily exercises and small projects.
+I’m currently on **Day 18 / 100**, where I’ve just completed my **first Object-Oriented Programming (OOP)** project — a fully functional **Quiz Game** that uses multiple classes to handle questions, scoring, and logic flow.
 
 ---
 
@@ -27,7 +27,7 @@ I’m currently on **Day 15 / 100**, steadily building skills through daily exer
 
 ---
 
-## 🌟 Mini Projects (Days 1 – 15)
+## 🌟 Mini Projects (Days 1 – 18)
 Here are the small but meaningful projects I’ve completed so far as part of my learning process:
 
 | Project | Description | Skills / Topics |
@@ -44,27 +44,26 @@ Here are the small but meaningful projects I’ve completed so far as part of my
 | 🔢 Odd or Even Checker | Checks if a number is odd or even | modulo operator, conditionals |
 | 🧍 BMI Calculator | Calculates Body Mass Index | math, input/output |
 | 📂 File Reader | Opens and reads a text file | file handling, open() |
-| 📑 Word Counter | Counts words in a file | string methods, loops |
-| 📅 Birthday Reminder | Reads and lists birthdays from a file | file handling, datetime |
 | 🔢 Prime Number Checker | Determines if a number is prime | loops, conditionals |
+| 🧠 Quiz Game | Interactive true/false quiz built using **Object-Oriented Programming (OOP)**. Includes `Question` and `QuizBrain` classes to manage questions, answers, and scoring logic. | classes, objects, attributes, methods, encapsulation |
 
-> ⚙️ Each project is in its own folder (Day01 – Day15) with clean, commented code.
+> ⚙️ Each project is in its own folder (Day01 – Day18) with clean, commented code.
 
 ---
 
 ## 🧰 Tools & Libraries
 `Python` `random` `datetime` `math` `os` `VS Code` `Git` `GitHub`
 
-*(I’ll expand this list as I learn more — Flask, Pandas, and Tkinter are coming soon.)*
+*(Coming soon: Flask, Pandas, Tkinter, API requests.)*
 
 ---
 
 ## 📈 Next Steps
-- Learn lists, tuples, and dictionaries  
-- Build my first **text-based game**  
-- Explore basic **Object-Oriented Programming (OOP)**  
-- Learn to use external libraries and APIs  
-- Begin building my first small web app (Flask or Streamlit)
+- Finish the Foundation phase (up to Day 20)  
+- Strengthen understanding of **Object-Oriented Programming**  
+- Build a **more advanced quiz version** using external data (Open Trivia API)  
+- Start exploring **file handling and error management**  
+- Prepare for the **Core Concepts** phase  
 
 ---
 
@@ -83,7 +82,7 @@ Here are the small but meaningful projects I’ve completed so far as part of my
 
 ---
 
-![Progress](https://img.shields.io/badge/Day-15%2F100-blue)
+![Progress](https://img.shields.io/badge/Day-18%2F100-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![Status](https://img.shields.io/badge/Learning-Active-success)
 
