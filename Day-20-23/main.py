@@ -4,6 +4,7 @@ from food import Food
 from score_board import Score
 import time
 
+
 screen = Screen()
 screen.screensize(600, 600)
 screen.bgcolor("black")
@@ -13,6 +14,7 @@ screen.tracer(0)
 snake = Snake()
 food = Food()
 score = Score()
+print(score.h_score)
 
 screen.listen()
 screen.onkey(snake.up, "Up")
@@ -35,10 +37,13 @@ while not game_over:
 
     # Wall collision
     if snake.hit():
-        game_over = score.game_over()
+        score.game_over()
+        snake.reset()
+
 
     # Body collision
     if snake.body_collision():
-        game_over = score.game_over()
+        score.game_over()
+        snake.reset()
 
 screen.exitonclick()
