@@ -2,8 +2,9 @@ from turtle import Turtle
 
 MOVE_DISTANCE = 20
 
-class Snake:
+class Snake(Turtle):
     def __init__(self):
+        super().__init__()
         self.snake_body = []
         self.create_snake()
         self.head = self.snake_body[0]
@@ -63,3 +64,10 @@ class Snake:
             if self.head.distance(segment) < 10:
                 return True
         return False
+
+    def reset(self):
+        for i in self.snake_body:
+            i.goto(1000,1000)
+        self.snake_body.clear()
+        self.create_snake()
+        self.head = self.snake_body[0]
