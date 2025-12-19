@@ -1,89 +1,80 @@
-# 🚀 My Python Learning Journey — 100 Days of Code Bootcamp
+# 🐍 My Python Learning Journey — 100 Days of Code Bootcamp
 
 Hi, I'm **Beshoy** 👋  
-I'm transitioning from a **SATCOM engineering** background into **software development** — combining my technical systems expertise with a growing passion for Python.
+I’m learning Python through the **100 Days of Code: The Complete Python Pro Bootcamp**, focusing on building strong fundamentals, improving problem-solving skills, and writing cleaner, more organized code.
 
-This repository documents my journey through the **100 Days of Code Bootcamp**, where I’m learning Python fundamentals, automation, and software design — one day at a time.
-
-I’m currently on **Day 18 / 100**, where I’ve just completed my **first Object-Oriented Programming (OOP)** project — a fully functional **Quiz Game** that uses multiple classes to handle questions, scoring, and logic flow.
+This repository documents my daily progress, exercises, and projects as I move step by step toward becoming a confident Python developer.
 
 ---
 
-## 🧠 Goals
-- Build a strong foundation in Python programming  
-- Learn to design clean, maintainable, and efficient code  
-- Apply problem-solving skills from telecom & systems integration to software challenges  
-- Transition into a development-focused role within technology or systems automation  
+## 🚧 Current Progress
+
+✅ **Completed up to Day 26**  
+📅 Actively continuing the 100 Days of Code challenge
+
+By Day 26, I’ve gained hands-on experience with Python basics, object-oriented programming, file handling, and data manipulation. Each day helped improve not just my coding skills, but also my **way of thinking and approaching problems logically**.
 
 ---
 
-## 🗂️ Structure
-| Phase | Days | Focus |
-|--------|------|--------|
-| 🧩 Foundation | 01–20 | Python basics, data types, control flow, and functions |
-| ⚙️ Core Concepts | 21–50 | Object-Oriented Programming, error handling, and file operations |
-| 🌐 Applications | 51–75 | Web development, APIs, and automation |
-| 📊 Advanced Projects | 76–100 | Final portfolio projects, data handling, and deployment |
+## 🧩 Key Topics Covered (Days 1–26)
+
+- Python fundamentals (variables, data types, conditions, loops)
+- Functions and scope
+- Lists, dictionaries, and string manipulation
+- File handling (read/write text files)
+- Error handling basics
+- Object-Oriented Programming (classes, methods, attributes)
+- Working with external data (CSV files)
+- Python list & dictionary comprehensions
+- Debugging and code refactoring
+- Writing cleaner, more maintainable code
 
 ---
 
-## 🌟 Mini Projects (Days 1 – 18)
-Here are the small but meaningful projects I’ve completed so far as part of my learning process:
+## 🛠 Notable Projects & Exercises
 
-| Project | Description | Skills / Topics |
-|----------|--------------|----------------|
-| 🖨️ Hello World | First Python script and setup | print(), syntax, strings |
-| 🧮 Simple Calculator | Performs arithmetic based on user input | input(), operators, conditionals |
-| 📅 Age Calculator | Calculates user’s age from birth year | input(), f-strings, type conversion |
-| 🎲 Dice Roller | Simulates dice rolls using random numbers | random, loops |
-| 📊 Tip Calculator | Splits a restaurant bill with tip | arithmetic, user input |
-| 🔁 Number Guessing Game | Guess a random number with hints | random, conditionals, loops |
-| ✏️ Password Generator | Creates random passwords of chosen length | random, strings |
-| 🪙 Heads or Tails | Coin flip simulation | random, logic |
-| 🧾 Band Name Generator | Generates fun band names | input(), string concatenation |
-| 🔢 Odd or Even Checker | Checks if a number is odd or even | modulo operator, conditionals |
-| 🧍 BMI Calculator | Calculates Body Mass Index | math, input/output |
-| 📂 File Reader | Opens and reads a text file | file handling, open() |
-| 🔢 Prime Number Checker | Determines if a number is prime | loops, conditionals |
-| 🧠 Quiz Game | Interactive true/false quiz built using **Object-Oriented Programming (OOP)**. Includes `Question` and `QuizBrain` classes to manage questions, answers, and scoring logic. | classes, objects, attributes, methods, encapsulation |
+- Calculator & logic-based programs
+- File-based projects (Mail Merge, High Score system)
+- NATO Phonetic Alphabet Converter
+- Quiz Game using OOP
+- Snake Game (game logic, collisions, scoring)
+- Multiple small exercises focused on logic and clean coding
 
-> ⚙️ Each project is in its own folder (Day01 – Day18) with clean, commented code.
+Each project is organized by day and stored in its own folder with readable and commented code.
 
 ---
 
-## 🧰 Tools & Libraries
-`Python` `random` `datetime` `math` `os` `VS Code` `Git` `GitHub`
+## 🛠 Tools & Technologies
 
-*(Coming soon: Flask, Pandas, Tkinter, API requests.)*
-
----
-
-## 📈 Next Steps
-- Finish the Foundation phase (up to Day 20)  
-- Strengthen understanding of **Object-Oriented Programming**  
-- Build a **more advanced quiz version** using external data (Open Trivia API)  
-- Start exploring **file handling and error management**  
-- Prepare for the **Core Concepts** phase  
+- **Python**
+- Built-in modules (`random`, `time`, `math`, `os`)
+- `pandas` (CSV handling)
+- Git & GitHub
+- PyCharm
 
 ---
 
-## 🎯 Long-Term Vision
-- Complete the **100 Days of Code** challenge  
-- Contribute to open-source projects  
-- Build end-to-end applications that combine **network automation** and **data-driven logic**  
-- Transition fully into a **Python developer** or **automation engineer** role  
+## 🎯 Goals
+
+- Build a strong foundation in Python
+- Improve problem-solving and logical thinking
+- Write clean, readable, and structured code
+- Complete all 100 days of the bootcamp
+- Prepare for junior software or Python developer opportunities
 
 ---
 
-## 📫 Connect With Me
-- 🌐 [GitHub](https://github.com/biscoo)  
-- 💼 [LinkedIn](www.linkedin.com/in/beshoy-beshara)  
-- ✉️ [Email](eng.beshoy.91@gmail.com)
+## 🔭 What’s Next
+
+- Continue with intermediate Python topics
+- Build more automation and data-focused projects
+- Improve error handling and code testing
+- Strengthen GitHub portfolio with documentation and refactoring
 
 ---
 
-![Progress](https://img.shields.io/badge/Day-18%2F100-blue)
-![Python](https://img.shields.io/badge/Python-3.10%2B-green)
-![Status](https://img.shields.io/badge/Learning-Active-success)
+## 📌 Final Note
 
-> “Small daily progress is the secret to long-term success.”
+This repository represents **consistent daily learning and growth**.  
+Small progress every day is shaping my mindset as a developer.
+
