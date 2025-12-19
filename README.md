@@ -7,6 +7,9 @@ This repository documents my daily progress, exercises, and projects as I move s
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=biscoo&style=flat-square)
+
+
 ## 🚧 Current Progress
 
 ✅ **Completed up to Day 26**  
