@@ -22,10 +22,10 @@ Enter a word or name: Alex
 ['Alfa', 'Lima', 'Echo', 'X-ray']
 
 
-🌱 What I Learned
+## 🌱 What I Learned
 
-Reading CSV files using pandas
-Converting DataFrames into dictionaries
-Using list comprehensions
-Handling user input safely
-Structuring a small Python project
+- Reading CSV files using pandas
+- Converting DataFrames into dictionaries
+- Using list comprehensions
+- Handling user input safely
+- Structuring a small Python project
