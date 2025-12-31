@@ -36,4 +36,4 @@ This app helps you stay focused using the classic **Pomodoro Technique**:
 ## ▶️ Run the app
 
 ```bash
-python pomodoro.py
+python main.py
